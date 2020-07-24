@@ -1,6 +1,6 @@
 # Hey Guys! I'm Arun, I'm an AI developer.
 
-<img src = "readme_resources/Banner.png">
+<img src = "https://raw.githubusercontent.com/CleanPegasus/CleanPegasus/master/readme_resources/Banner.png">
 
 ## About me
 I like learning new things.
